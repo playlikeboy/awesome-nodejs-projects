@@ -91,6 +91,8 @@ for a curated list of packages and resources.
 
 * [Countly](https://github.com/countly/countly-server) ([website](http://count.ly)) - Open source, mobile & web analytics and marketing platform for Android, iOS and web.
 
+* [30tools](https://github.com/SH20RAJ/30tools) - 660+ free online tools (PDF, image, text, developer, SEO) built with Next.js. All processing runs client-side in the browser.
+
 ## License
 
 ![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
